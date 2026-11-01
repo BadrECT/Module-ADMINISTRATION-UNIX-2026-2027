@@ -2,7 +2,7 @@
 
 **École :** École Marocaine des Sciences de l'Ingénieur (EMSI)  
 **Filière :** 4IIR (4e année Ingénierie Informatique et Réseaux)  
-**Encadrante :** Mme. Berraho Sanae  
+**Encadrante :** Mr.Noreddine Abghour 
 **Réalisé par :** Badr  
 **Année universitaire :** 2026/2027  
 **Environnement technique :** Red Hat Enterprise Linux 9 (RHEL 9)
