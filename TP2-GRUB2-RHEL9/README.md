@@ -2,7 +2,7 @@
 
 **Module :** Administration Unix  
 **Filière :** 4IIR — EMSI  
-**Encadrante :** Mme. Berraho Sanae  
+**Encadrante :** Mr.Noreddine Abghour 
 **Réalisé par :** Badr  
 **Année universitaire :** 2026/2027  
 **Système utilisé :** Red Hat Enterprise Linux 9.8 (`5.14.0-687.61.1.el9_8.x86_64`)
