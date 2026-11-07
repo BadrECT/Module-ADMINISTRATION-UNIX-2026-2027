@@ -3,7 +3,7 @@
 **École :** École Marocaine des Sciences de l'Ingénieur (EMSI)  
 **Filière :** 4IIR (4e année Ingénierie Informatique et Réseaux)  
 **Encadrant :** Mr. Noreddine Abghour  
-**Réalisé par :** Badr  
+**Réalisé par :** Badr Kaanoune
 **Année universitaire :** 2026/2027  
 **Environnement technique :** Red Hat Enterprise Linux 9 (RHEL 9)
 
