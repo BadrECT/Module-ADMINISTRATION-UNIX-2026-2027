@@ -2,7 +2,7 @@
 
 **École :** École Marocaine des Sciences de l'Ingénieur (EMSI)  
 **Module :** Administration Unix — **Niveau :** 4IIR  
-**Professeure :** Mme Berraho Sanae  
+**Professeure :** Mr. Noreddine Abghour 
 **Environnement :** Red Hat Enterprise Linux 9 (`RHEL 9 x86_64`)  
 **Utilisateur :** `badr@localhost`  
 
