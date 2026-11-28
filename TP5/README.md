@@ -2,7 +2,7 @@
 
 **École :** École Marocaine des Sciences de l'Ingénieur (EMSI)  
 **Filière :** 4IIR — Administration Unix  
-**Encadrante :** Mme Berraho Sanae  
+**Encadrante :** Mr. Noreddine Abghour  
 **Étudiant :** Badr  
 **Système :** Red Hat Enterprise Linux 9.8 (`x86_64`) — Interface réseau `ens192`  
 
